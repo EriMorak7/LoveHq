@@ -1,0 +1,16 @@
+{
+  "name": "love-life-hq",
+  "version": "1.0.0",
+  "description": "Your private love life manager",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron ."
+  },
+  "dependencies": {
+    "node-sqlite3-wasm": "^0.8.18"
+  },
+  "devDependencies": {
+    "electron": "^31.0.0"
+  }
+}
